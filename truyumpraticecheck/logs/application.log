@@ -1,0 +1,54 @@
+14-05-22 00:50:29.505 [RMI TCP Connection(4)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-4 - Shutdown initiated...
+14-05-22 00:50:29.507 [RMI TCP Connection(4)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-4 - Shutdown completed.
+14-05-22 00:50:33.183 [restartedMain] INFO  c.e.t.TruyumpraticecheckApplication -
+                Starting TruyumpraticecheckApplication using Java 15.0.1 on LAPTOP-FLS06QOL with PID 8724 (E:\truyumpraticecheck\truyumpraticecheck\target\classes started by Hjwasim in E:\truyumpraticecheck\truyumpraticecheck)
+14-05-22 00:50:33.184 [restartedMain] INFO  c.e.t.TruyumpraticecheckApplication -
+                No active profile set, falling back to 1 default profile: "default"
+14-05-22 00:50:34.440 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Starting...
+14-05-22 00:50:34.591 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Start completed.
+14-05-22 00:50:35.459 [restartedMain] INFO  c.e.t.TruyumpraticecheckApplication -
+                Started TruyumpraticecheckApplication in 2.517 seconds (JVM running for 3.028)
+14-05-22 00:50:35.460 [restartedMain] INFO  c.e.t.TruyumpraticecheckApplication -
+                Start updateMenuItemTest
+14-05-22 00:50:35.518 [restartedMain] INFO  c.e.t.TruyumpraticecheckApplication -
+                End updateMenuItemTest
+14-05-22 00:51:05.374 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Shutdown initiated...
+14-05-22 00:51:05.378 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-1 - Shutdown completed.
+14-05-22 00:51:05.427 [restartedMain] INFO  c.e.t.TruyumpraticecheckApplication -
+                Starting TruyumpraticecheckApplication using Java 15.0.1 on LAPTOP-FLS06QOL with PID 8724 (E:\truyumpraticecheck\truyumpraticecheck\target\classes started by Hjwasim in E:\truyumpraticecheck\truyumpraticecheck)
+14-05-22 00:51:05.427 [restartedMain] INFO  c.e.t.TruyumpraticecheckApplication -
+                No active profile set, falling back to 1 default profile: "default"
+14-05-22 00:51:05.609 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Starting...
+14-05-22 00:51:05.611 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Start completed.
+14-05-22 00:51:05.747 [restartedMain] INFO  c.e.t.TruyumpraticecheckApplication -
+                Started TruyumpraticecheckApplication in 0.339 seconds (JVM running for 33.315)
+14-05-22 00:51:05.748 [restartedMain] INFO  c.e.t.TruyumpraticecheckApplication -
+                Start updateMenuItemTest
+14-05-22 00:51:05.753 [restartedMain] ERROR c.e.t.TruyumpraticecheckApplication -
+                Menu Item Not Found
+14-05-22 00:51:18.363 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Shutdown initiated...
+14-05-22 00:51:18.364 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-2 - Shutdown completed.
+14-05-22 00:51:18.407 [restartedMain] INFO  c.e.t.TruyumpraticecheckApplication -
+                Starting TruyumpraticecheckApplication using Java 15.0.1 on LAPTOP-FLS06QOL with PID 8724 (E:\truyumpraticecheck\truyumpraticecheck\target\classes started by Hjwasim in E:\truyumpraticecheck\truyumpraticecheck)
+14-05-22 00:51:18.407 [restartedMain] INFO  c.e.t.TruyumpraticecheckApplication -
+                No active profile set, falling back to 1 default profile: "default"
+14-05-22 00:51:18.593 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-3 - Starting...
+14-05-22 00:51:18.596 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource -
+                HikariPool-3 - Start completed.
+14-05-22 00:51:18.719 [restartedMain] INFO  c.e.t.TruyumpraticecheckApplication -
+                Started TruyumpraticecheckApplication in 0.329 seconds (JVM running for 46.288)
+14-05-22 00:51:18.720 [restartedMain] INFO  c.e.t.TruyumpraticecheckApplication -
+                Start updateMenuItemTest
+14-05-22 00:51:18.727 [restartedMain] INFO  c.e.t.TruyumpraticecheckApplication -
+                End updateMenuItemTest
